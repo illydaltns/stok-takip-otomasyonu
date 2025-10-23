@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Projelerim\StokTakipOtomasyonu\resources\views/layouts/navigation.blade.php ENDPATH**/ ?>
